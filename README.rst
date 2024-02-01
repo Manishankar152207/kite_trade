@@ -8,8 +8,8 @@
 How to use:
 
 ```
-# Download the 'kite_trade.py' file
-# keep the file in same directory where your code file is stored
+# Download the 'kite_trade library' file
+# Use pip install kite_trade
 ```
 
 ### Prerequisites
